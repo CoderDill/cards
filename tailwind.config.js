@@ -11,6 +11,8 @@ module.exports = {
   theme: {
     colors: {
       felt: "#246727",
+      black: "#000000",
+      white: "#FFFFFF"
     },
     extend: {},
   },
